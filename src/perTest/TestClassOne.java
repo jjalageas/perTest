@@ -5,7 +5,7 @@ public class TestClassOne {
 	private int alpha;
 	
 	public TestClassOne(){
-		alpha = 7;
+		alpha = 4;
 	}
 	
 	public int getAlpha(){
