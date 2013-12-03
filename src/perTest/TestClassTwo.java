@@ -12,7 +12,7 @@ public class TestClassTwo {
 		return beta;
 	}
 	
-	public void setBeta(int x){
-		beta = x;
+	public void setBeta(int z){
+		beta = z;
 	}
 }
