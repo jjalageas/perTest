@@ -13,7 +13,7 @@ public class TestClassOne {
 	}
 	
 	public void setAlpha(int x){
-		alpha = y;
+		alpha = x;
 	}
 	
 
