@@ -2,18 +2,18 @@ package perTest;
 
 public class TestClassOne {
 	
-	private int alpha;
+	private int alphap;
 	
 	public TestClassOne(){
-		alpha = 4;
+		alphap = 4;
 	}
 	
 	public int getAlpha(){
-		return alpha;
+		return alphap;
 	}
 	
 	public void setAlpha(int x){
-		alpha = x;
+		alphap = x;
 	}
 	
 
