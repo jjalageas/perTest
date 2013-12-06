@@ -5,7 +5,7 @@ public class TestClassTwo {
 	private int beta;
 	
 	public TestClassTwo(){
-		beta = 9;
+		beta = 777;
 	}
 	
 	public int getBeta(){
